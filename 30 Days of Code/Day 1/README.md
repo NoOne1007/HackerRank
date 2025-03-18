@@ -22,14 +22,14 @@ The third line contains a string that you must concatenate with .
 Print the sum of both integers on the first line, the sum of both doubles (scaled to  decimal place) on the second line, and then the two concatenated strings on the third line.
 
 #### Sample Input
-12
+`12
 4.0
-is the best place to learn and practice coding!
+is the best place to learn and practice coding!`
 
 #### Sample Output
-16
+`16
 8.0
-HackerRank is the best place to learn and practice coding!
+HackerRank is the best place to learn and practice coding!`
 
 #### Explanation
 When we sum the integers  and , we get the integer .
